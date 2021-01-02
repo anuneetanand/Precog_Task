@@ -45,8 +45,11 @@ Top HashTag in Delhi : `#HappyNewYear`
 
 - `Raw_Data_Collection.py` : Identify top HashTag and collect 10000 tweets around the top HashTag.
 - `Data_Extraction.py` : Clean the Raw JSON dumps of tweets and generate dumps which can be loaded directly as Dataframes.
-- `Tweet_Analysis.ipynb` : Analysis of Tweets and Users. 
+- `Tweet_Analysis.ipynb` : Analysis of Tweets and Users.
+
 [App](https://twishigolol.herokuapp.com)
+Alternatively run ```python app.py```
+
 ## Task 3
 
 ## A
